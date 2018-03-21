@@ -3,7 +3,7 @@
 Main Website: http://traceshark.com
 
 Example (click to zoom):
-[![Example](https://svgshare.com/i/5xC.svg)](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)
+[![Example](https://svgshare.com/i/5xC.svg)](https://svgshare.com/i/5xC.svg)
 
 This is a graphical viewer for the Ftrace and Perf events that can be captured by the Linux kernel. It visualizes the following events:
 
