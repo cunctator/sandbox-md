@@ -1,5 +1,7 @@
 # 1. Introduction to Traceshark
 
+[![Example](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)
+
 This is a graphical viewer for the Ftrace and Perf events that can be captured by the Linux kernel. It visualizes the following events:
 
 ```
@@ -60,7 +62,8 @@ There are a number of buttons in the GUI, here is a description of the buttons i
   ~/FlameGraph/flamegraph.pl --hash --color=java filtered.folded > filtered.svg
   ```
   8. If all went well, your file `filtered.svg` should now contain an image, that can be displayed by a web browser such as Chromium or Firefox:
-![Flamegraph](https://raw.githubusercontent.com/cunctator/traceshark/ce24ad54552cc45ab952c6fc961274fae50105b9/doc/filtered.svg)
+
+[![Example](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)
 
 The top widget has some buttons as well:
 
