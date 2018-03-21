@@ -3,7 +3,7 @@
 Main Website: http://traceshark.com
 
 Example (click to zoom):
-[![Example](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)
+[![Example](https://svgshare.com/i/5xC.svg)](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)
 
 This is a graphical viewer for the Ftrace and Perf events that can be captured by the Linux kernel. It visualizes the following events:
 
@@ -65,8 +65,7 @@ There are a number of buttons in the GUI, here is a description of the buttons i
   ~/FlameGraph/flamegraph.pl --hash --color=java filtered.folded > filtered.svg
   ```
   8. If all went well, your file `filtered.svg` should now contain an image, that can be displayed by a web browser such as Chromium or Firefox:
-
-[![Example](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)](https://raw.githubusercontent.com/cunctator/sandbox-md/d5f6030cbe3bc83a379b59ed4a677fae389a2f10/filtered.svg)
+  [![filtered.svg](https://svgshare.com/i/5xC.svg)](https://svgshare.com/i/5xC.svg)
 
 The top widget has some buttons as well:
 
